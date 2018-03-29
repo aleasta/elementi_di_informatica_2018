@@ -1,5 +1,10 @@
+body{
+	background-color: RGB(255, 250, 107);
+}
 h1 {
 	color: darkblue;
+	font-family: "Playfair Display",serif;
+  font-weight: 700;
 }
 
 h2 {
